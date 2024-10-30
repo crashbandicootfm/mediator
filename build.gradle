@@ -25,4 +25,4 @@ tasks.withType(JavaCompile).configureEach {
     targetCompatibility = JavaVersion.VERSION_21
 }
 
-group = 'dev.tiltrikt'
+group = 'dev.crashbandicootfm'
